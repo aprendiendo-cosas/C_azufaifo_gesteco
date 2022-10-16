@@ -6,8 +6,12 @@
 
 ![portada](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/azufaifo.jpg) 
 
+## Ubicación
+
+Rambla de las Amoladeras, término municipal de Níjar (Almería)
 
 ## Introducción
+
 El azufaifar es un hábitat típico de regiones semiáridas en las que domina el azufaifo (*Ziziphus lotus*). Tanto su extensión como su funcionamiento se han visto notablemente reducidos en las últimas décadas en España por diversas razones. Una de las más relevantes es la introducción del ágave (*Agave americana*), que se comporta como una especie exótica e invasora. El ágave desplaza al azufaifo y hace que el hábitat en cuestión pierda capacidad de proveer servicios ecosistémicos. En esta parada analizaremos esta situación y veremos cómo algunas acciones de manejo pretenden erradicar el ágave para fomentar la regeneración de los azufaifos. [Aquí](https://www.lifeadaptamed.eu/?p=1473) puedes leer información de interés sobre este caso de estudio. 
 
 
