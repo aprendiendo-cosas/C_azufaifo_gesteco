@@ -8,15 +8,15 @@
 
 
 ## Introducción
-En esta última parada pasearemos por una acequia situada cerca del núcleo urbano de Nigüelas. Durante el recorrido, Isabel Haro nos hablará de la agroecología y de su capacidad de proveer alimentos a la población a escala local. También hablaremos de la red de acequias como elemento fundamental para distribuir el agua en las zonas de montaña. Recordaremos las acequias que visitamos el curso pasado en la zona alta de Sierra Nevada.
+El azufaifar es un hábitat típico de regiones semiáridas en las que domina el azufaifo (*Ziziphus lotus*). Tanto su extensión como su funcionamiento se han visto notablemente reducidos en las últimas décadas en España por diversas razones. Una de las más relevantes es la introducción del ágave (*Agave americana*), que se comporta como una especie exótica e invasora. El ágave desplaza al azufaifo y hace que el hábitat en cuestión pierda capacidad de proveer servicios ecosistémicos. En esta parada analizaremos esta situación y veremos cómo algunas acciones de manejo pretenden erradicar el ágave para fomentar la regeneración de los azufaifos. [Aquí](https://www.lifeadaptamed.eu/?p=1473) puedes leer información de interés sobre este caso de estudio. 
 
 
 
 
 ## Objetivos docentes
-+ Comparar la estructura de los ecosistemas con la de los sistemas agrícolas.
-+ Reflexionar sobre las ventajas de la agroecología.
-+ Entender el papel de la red de acequias en el manejo del agua en zonas de montaña.
++ Reconocer el concepto de especie invasora y su impacto en la dinámica poblacional de especies locales.
++ Ver in situ el concepto de competencia interespecífica.
++ Entender con un ejemplo, el concepto de servicio ecosistémico.
 
 
 
@@ -24,13 +24,13 @@ En esta última parada pasearemos por una acequia situada cerca del núcleo urba
 
 Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
-- Diversidad en comunidades ecológicas.
-- Ciclo hidrológico.
-- Gestión de plagas en sistemas agrícolas.
+- Comunidades ecológicas.
+- Competencia interespecífica.
+- Especies exóticas e invasoras
 
 
 
-## Comentarios o reflexiones "al vuelo"
+## Comentarios o reflexiones "al vuelo" (#invasoras)
 
 
 
