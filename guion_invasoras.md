@@ -38,3 +38,26 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 
 
+Nadie comentó nada en el grupo de Telegram
+
+
+
+## Algunas fotos
+
+
+
+![1](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/1.JPG)
+
+
+
+![2](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/2.JPG)
+
+
+
+![3](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/3.JPG)
+
+![4](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/4.JPG)
+
+![5](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/5.JPG)
+
+![6](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/6.JPG)
