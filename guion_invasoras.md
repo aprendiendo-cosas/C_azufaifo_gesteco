@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/azufaifo.jpg) 
+![portada](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/2022_2023/images/azufaifo.jpg) 
 
 ## Ubicación
 
@@ -46,18 +46,26 @@ Nadie comentó nada en el grupo de Telegram
 
 
 
-![1](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/1.JPG)
+![1](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/2022_2023/images/1.JPG)
 
 
 
-![2](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/2.JPG)
+![2](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/2022_2023/images/2.JPG)
 
 
 
-![3](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/3.JPG)
+![3](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/2022_2023/images/3.JPG)
 
-![4](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/4.JPG)
+![4](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/2022_2023/images/4.JPG)
 
-![5](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/5.JPG)
+![5](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/2022_2023/images/5.JPG)
 
-![6](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/main/images/6.JPG)
+![6](https://github.com/aprendiendo-cosas/C_azufaifo_gesteco/raw/2022_2023/images/6.JPG)
+
+
+
+## Vídeo realizado por los estudiantes
+
+
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/80UZDZtKc_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
